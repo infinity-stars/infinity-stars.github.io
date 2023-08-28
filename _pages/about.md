@@ -12,4 +12,4 @@ Hi! I am an undergraduate student from School of Data Science, Fudan University.
 
 In my spare time, I love to paly badminton and go swimming. I love to play Go as well, which is an ancient strategy board game. The picture here is photoed when I was playing it.
 
-You can find my CV [here].
+You can find my CV here.

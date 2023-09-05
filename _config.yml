@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuxing Liu"
   avatar           : "profile.png"
-  bio              : "Undergraduate student from Fudan University"
+  bio              : "Undergraduate student, Fudan University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : yuxingliu20@fudan.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

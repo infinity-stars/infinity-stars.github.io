@@ -17,4 +17,4 @@ author_profile: true
 
 ## Preprints 
 * Large Batch Analysis for Adagrad Under Anisotropic Smoothness.\
-  **Yuxing Liu**, Rui Pan, and Tong Zhang. [[Arxiv]](https://arxiv.org/abs/2406.15244)
+  **Yuxing Liu\***, Rui Pan\*, and Tong Zhang. [[Arxiv]](https://arxiv.org/abs/2406.15244)

@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an undergraduate student from [School of Data Science](https://sds.fudan.edu.cn/main.htm), Fudan University. My research interest lies in machine learning theory and optimization. I am currently interested in theoretical explanations for practical algorithms and efficient algorithm design. I am fortunate to have the opportunity to work closely with Professors [Tong Zhang](https://tongzhang-ml.org/) and [Luo Luo](https://luoluo-sds.github.io/). 
+Hi! I am a first-year PhD student in [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/), UIUC, advised by [Professor Tong Zhang](https://tongzhang-ml.org/). Prior to that, I did my undergraduate in [School of Data Science](https://sds.fudan.edu.cn/main.htm), Fudan University, under the supervision of [Professor Luo Luo](https://luoluo-sds.github.io/).
+My research interest lies in the intersection of machine learning and optimization. I am currently particularly interested in theoretical explanations for practical optimization algorithms and efficient algorithm design. 
 
 In my spare time, I love to play badminton and go swimming. I also love to play Go, which is an ancient strategy board game. The picture here was taken when I was playing it.
 

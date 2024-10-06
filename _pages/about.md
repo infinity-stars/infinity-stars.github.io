@@ -13,4 +13,4 @@ My research interest lies in the intersection of machine learning and optimizati
 
 In my spare time, I love to play badminton and go swimming. I also love to play Go, which is an ancient strategy board game. The picture here was taken when I was playing it.
 
-You can find my CV [here](../files/Yuxing_LIU_CV.pdf).
+You can find my CV [here](../files/Yuxing_Liu_CV.pdf).

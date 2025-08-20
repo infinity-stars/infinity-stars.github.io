@@ -18,5 +18,7 @@ author_profile: true
   Rui Pan\*, **Yuxing Liu\***, Xiaoyu Wang, and Tong Zhang. [[ICLR 2024]](https://openreview.net/forum?id=CIqjp9yTDq)
 
 ## Preprints 
+* Asgo: Adaptive structured gradient optimization.\
+  Kang An\*, **Yuxing Liu\***, Rui Pan, Yi Ren, Shiqian Ma, Donald Goldfarb, and Tong Zhang. [[Arxiv]](https://arxiv.org/pdf/2503.20762)
 * On the Complexity of Decentralized Smooth Nonconvex Finite-Sum Optimization.\
   Luo Luo, Yunyan Bai, Lesi Chen, **Yuxing Liu**, and Haishan Ye. [[Arxiv]](https://arxiv.org/abs/2210.13931)

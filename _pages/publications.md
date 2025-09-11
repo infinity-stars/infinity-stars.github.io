@@ -19,8 +19,8 @@ author_profile: true
 
 ## Preprints 
 * Theoretical Analysis on how Learning Rate Warmup Accelerates Convergence.\
-  **Yuxing Liu\***, Yuze Ge, Rui Pan, Kang An, and Tong Zhang. [[arXiv]](https://arxiv.org/pdf/2509.07972)
+  **Yuxing Liu\***, Yuze Ge, Rui Pan, Kang An, and Tong Zhang. [[arXiv]](https://arxiv.org/abs/2509.07972)
 * Asgo: Adaptive structured gradient optimization.\
-  Kang An\*, **Yuxing Liu\***, Rui Pan, Yi Ren, Shiqian Ma, Donald Goldfarb, and Tong Zhang. [[arXiv]](https://arxiv.org/pdf/2503.20762)
+  Kang An\*, **Yuxing Liu\***, Rui Pan, Yi Ren, Shiqian Ma, Donald Goldfarb, and Tong Zhang. [[arXiv]](https://arxiv.org/abs/2503.20762)
 * On the Complexity of Decentralized Smooth Nonconvex Finite-Sum Optimization.\
   Luo Luo, Yunyan Bai, Lesi Chen, **Yuxing Liu**, and Haishan Ye. [[arXiv]](https://arxiv.org/abs/2210.13931)

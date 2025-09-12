@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuxing Liu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yuxing Liu"
-description              : &description "undergraduate student from Fudan University"
+description              : &description "CS PhD student in UIUC"
 url                      : https://infinity-stars.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "infinity-stars/infinity-stars.github.io"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : https://github.com/infinity-stars
   google_plus      :
   keybase          :
   instagram        :

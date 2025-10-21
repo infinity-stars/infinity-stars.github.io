@@ -18,6 +18,8 @@ author_profile: true
   Rui Pan\*, **Yuxing Liu\***, Xiaoyu Wang, and Tong Zhang. [[ICLR 2024]](https://openreview.net/forum?id=CIqjp9yTDq)
 
 ## Preprints 
+* Unbiased Gradient Low-Rank Projection.\
+  Rui Pan\*, Yang Luo\*, **Yuxing Liu\***, You Yang, and Tong Zhang. [[arXiv]](https://arxiv.org/pdf/2510.17802)
 * Theoretical Analysis on how Learning Rate Warmup Accelerates Convergence.\
   **Yuxing Liu\***, Yuze Ge, Rui Pan, Kang An, and Tong Zhang. [[arXiv]](https://arxiv.org/abs/2509.07972)
 * ASGO: Adaptive Structured Gradient Optimization.\

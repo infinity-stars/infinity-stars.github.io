@@ -23,7 +23,7 @@ author_profile: true
 * Unbiased Gradient Low-Rank Projection.\
   Rui Pan\*, Yang Luo\*, **Yuxing Liu\***, You Yang, and Tong Zhang. [[arXiv]](https://arxiv.org/pdf/2510.17802)
 * Theoretical Analysis on how Learning Rate Warmup Accelerates Convergence.\
-  **Yuxing Liu\***, Yuze Ge, Rui Pan, Kang An, and Tong Zhang. [[arXiv]](https://arxiv.org/abs/2509.07972)
+  **Yuxing Liu\***, Yuze Ge\*, Rui Pan, Kang An, and Tong Zhang. [[arXiv]](https://arxiv.org/abs/2509.07972)
 * GUIDE: Towards Scalable Advising for Research Ideas.\
   Yaowenqi Liu\*, Bingxu Meng\*, Rui Pan\*, **Yuxing Liu**, Jerry Huang, Jiaxuan You, and Tong Zhang. [[arXiv]](https://arxiv.org/pdf/2507.08870)
 * On the Complexity of Decentralized Smooth Nonconvex Finite-Sum Optimization.\
